@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rare, true, and wonderful relation, of a tovvn in the principality of Piedmont Within these few weeks sunk under the ground, so as nothing of it appears, only two of the inhabitants survive the misery. With philosophical, historical, political, and theological reflections upon the same. With allowance.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58080</idno><idno type="EEBO-CITATION">99831115</idno>
+  <idno type="VID">35577</idno>
+  <idno type="EEBO-PROQUEST">2240936252</idno>
+  
+            <idno type="STC">Wing R280</idno>
+            <idno type="STC">ESTC R219661</idno>
+            <idno type="PROQUEST">99831115</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831115e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35577)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2039:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rare, true, and wonderful relation, of a tovvn in the principality of Piedmont Within these few weeks sunk under the ground, so as nothing of it appears, only two of the inhabitants survive the misery. With philosophical, historical, political, and theological reflections upon the same. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35577:1"/>
+            <p>A Rare, True, and Wonderful RELATION, OF A TOWN IN THE PRINCIPALITY OF PIEDMONT, Within these few Weeks sunk under Ground, so as nothing of it appears, only two of the In<g ref="char:EOLhyphen"/>habitants survive the misery.</p>
+            <p>With Philosophical, Historical, Political, and Theological Reflections upon the same.</p>
+            <q>Non est muta Natura rerum, sed undi{que} loquax, <bibl>
+                  <hi>Eras.</hi>
+               </bibl>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Simmons,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:35577:2"/>
+            <head>A Rare, true, and Wonderful RELATION, of a Town in the Principality of <hi>Piedmont,</hi> within these few Weeks wholly sunk under Ground, so as nothing of it appears, <hi>&amp;c.</hi>
+            </head>
+            <p>THings admirable seem much to be the enquiry of this knowing Age; it's only the Idle and Ignorant that stand pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing over the Trifles of this dying World: much soo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er may Eagles catch at Flys, than Learned and Experienced Men stoop below themselves, to wonder at mean and common things. We are now very happily got beyond those Times which made the <hi>Mathematicks</hi> Conjuration, and the Asser<g ref="char:EOLhyphen"/>tion of <hi>Antipodes</hi> to be no less than a Grand and Capital Heresie: Now only Things Extraordinary, such as are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aised far above every days Observation, can be the inducements of Adm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion; among which Number we may justly rank the following Relation, sent to this City by a Person of no mean Quality, residing at the Duke of <hi>Savoy</hi>'s Court: You may take his own words, as follow.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="part">
+                        <head>
+                           <hi>Turin April</hi> 8. N. S.</head>
+                        <p>Some few days since happened a strange Accident to a Town in <hi>Pied<g ref="char:EOLhyphen"/>mont,</hi> not far from hence, the place is called <hi>Bosia,</hi> it suddenly sunk down into the Earth, so that neither House, nor any thing else hath since appeared; more than two hundred persons are lost, only two of the whole Town escaping.</p>
+                        <closer>
+                           <signed>W. S.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This is also fully confirmed by the <hi>Gazette,</hi> bearing date from <hi>April</hi> 21. to 24. I do not take this to be a meer Accident of Na<g ref="char:EOLhyphen"/>ture,
+<pb n="3" facs="tcp:35577:2"/> but to be come to pass by the wise disposal of the Almighty Governour and Director of all Things, Causes, Events, or Per<g ref="char:EOLhyphen"/>sons in this inferiour Region: It was the undeny'd Opinion of the best of Ministers in the Church of Christ, in the most bright and first days of the Gospel, <hi>That God by his Providence orders and man<g ref="char:EOLhyphen"/>nageth all things in this lower World, be they never so mean and ordinary;</hi> much more those that are great, and awaken Admiration even in the wisest Men; which are therefore not to be slighted by Us, by <hi>Ʋs,</hi> I say, <hi>whom God made to contemplate and improve all his doings.</hi>
+            </p>
+            <p>Allow me therefore to befriend the less Intelligent, by discoursing a little upon this awaking Providence; its distance from us should not make us less sensible, but more thankful, than if it had been the miserable lot of some Neighbour Town, where, with an easie walk, our Eyes might have affected our Hearts. Here I'll attempt two things; <hi>First,</hi> to shew you whence such amazing Providences derive their Original. <hi>Secondly,</hi> give you some Moral, or Political Improvement of them.</p>
+            <p>
+               <hi>First,</hi> To shew you whence they derive their Original, or how they come to be. This I'll shew you Philosophically, and Theologi<g ref="char:EOLhyphen"/>cally.</p>
+            <p n="1">1. <hi>Philosophically,</hi> (or Naturally,) I'll wave all extraordinary causes, because they are miraculous; I mean such as are perform<g ref="char:EOLhyphen"/>ed immediately by the Divine Power, or by the Operation of An<g ref="char:EOLhyphen"/>gels at the permission or command of God; and pitch upon two things as Natural causes, <hi>viz.</hi> either, 1. The violent force of those Vapors, or Exhalations, that war and contest within the Bowels and spacious Caverns of the Earth, put into a rage by some ap<g ref="char:EOLhyphen"/>proaching heat, which for want of a convenient <hi>Exit</hi> make Towns and Countries tremble, and sometimes tumble into Ruines, and al<g ref="char:EOLhyphen"/>so utterly disappear. This is easily illustrated into the Experience of him that pleaseth to set before the Fire a Glass Bottle full of Wa<g ref="char:EOLhyphen"/>ter (especially if thick and slimy) closed with a good Cork well tied down; for as the Fire heats the Water, so the Bottle moves or cracks, if it do not fly all in pieces with a noise at one crash: So Water and Air mingled with Spirits, rarified by some approach<g ref="char:EOLhyphen"/>ing heat, either within the Bowels of the Earth, by an higher Fer<g ref="char:EOLhyphen"/>ment, or by Internal Flames; or without the Bowels of the Earth
+<pb n="4" facs="tcp:35577:3"/> by the Sun, do usually either break out by some narrower Passa<g ref="char:EOLhyphen"/>ges, or else burst their way forth by violence and destruction, or at least shake their Prison in a manner competently terrible to those that dwell above it. This may be the cause. Or, 2. The thin<g ref="char:EOLhyphen"/>ness of the Earth, or Rock, upon which Towns are built; which may stand a great while but yet fall at length, without having any thing of an Earth-quake as its Cause, only make one as its Effect; as we see strong Walls of Towns and Houses crack and moulder down with length of age; or make a more speedy fall by some greater rush, or knock, when weakly founded, or in a tottering case. So <hi>Thrasymachus</hi> tells us of one riding in his Chariot to the <hi>Theban</hi> War, who going over such a thin sort of Earth, the place broke in immediately, and beyond recovery swallowed up him and that which carried him.</p>
+            <p n="2">2. <hi>Theologically,</hi> They derive their Original from the Almigh<g ref="char:EOLhyphen"/>ty Will. <hi>Job</hi> 9.5, 6. <hi>This removeth the Mountains, and overturneth them; this shaketh the Earth out of her place, and the Pillars thereof tremble.</hi> They come to pass as Predictions of God's Displeasure, or Executions of the same. 1. They very often predict the Dis<g ref="char:EOLhyphen"/>pleasure of God: Though they are not always Predictions of this, yet they are usually. They give warning that God is angry; God is gracious and loth to be severe with Man, therefore this way gives him notice that he is displeased. <hi>Ps.</hi> 18.7. <hi>The Earth shook, and trembled; the Foundations also of the Hills moved and were shaken, because he was wroth. Pliny</hi> testifies, That <hi>Rome</hi> was never shaken with an Earth-quake, but it proved the fore-runner of some great mischief to that City, and a certain Evidence of an angry Deity. The miseries of <hi>Greece</hi> by the <hi>Peloponesian</hi> War was fore-told by an Earth-quake. A terrible Famine, and many other Calamities, were ushered into the World in the days of <hi>Justinian,</hi> by the shaking of the Earth, and the sinking of Towns. <hi>Livy,</hi> and other Wri<g ref="char:EOLhyphen"/>ters among the <hi>Heathen Romans,</hi> tells us plainly, That the Earth falling in, and leaving behind it a wide and terrifying Gulph, not far from <hi>Rome,</hi> the Oracle being consulted, told them, That it was an undoubted Signal of the displeasure of their Gods. <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> also in his <hi>Parallels</hi> gives us a resembling History. But to come much nearer our present Subject, the Author of the History
+<pb n="5" facs="tcp:35577:3"/> of this Iron Age says, That the late most bloody Wars of the <hi>French</hi> in <hi>Savoy</hi> were premonstrated by an Earth-quake, so terrible as to overwhelm sixteen thousand Persons. Or, 2. They are the Executions of God's Displeasure. Of this we have one of the most eminent and greatest Instances in the World, <hi>Numb.</hi> 16. in the Case of <hi>Korah, Dathan,</hi> and <hi>Abiram,</hi> with those that followed them. (See <hi>verses</hi> 30, 31, 32, 33.) The Earth opened her Mouth wide, and swallowed them up alive with all their concerns; and this was purely the Execution of God's high Displeasure.</p>
+            <p>Thus I have shewed you whence these things come to have a Be<g ref="char:EOLhyphen"/>ing. I now come,</p>
+            <p>
+               <hi>Secondly,</hi> To give you some Moral or Political Improvement, so as to bring this strange Providence, and others of the like na<g ref="char:EOLhyphen"/>ture, into use for the advancement of Wisdom and Holy Life, it was well said by the Poet, <hi>Faelix quem faciunt aliena pericula cautum.</hi> This improvement is what God looks for from us, as the result of such Providences: <hi>Isa.</hi> 26.9. <hi>When thy Judgments are abroad in the Earth, the Inhabitants of the World will learn Righteousness.</hi> It was a rare practice in the Emperour <hi>Justinus,</hi> who hearing of a terri<g ref="char:EOLhyphen"/>ble destructive Earthquake at <hi>Antioch,</hi> laid aside his Crown and Royal Robes, and put on Sack-cloth and Ashes, and lamented for many days. If he took so deep an impression, no doubt but we should take some; which is best done by a wise governing and ma<g ref="char:EOLhyphen"/>naging our Enjoyments, Affairs and Lives; which, that we may do, I'll propose some few Directions, as pertinent to the thing in hand as my skill and leisure will permit.</p>
+            <p n="1">1. We are not to be fond of Towns and Habitations, nor too Ornamental in them. It's like this Town in <hi>Piedmont</hi> might seem<g ref="char:EOLhyphen"/>ingly be as well fixed and as durable as those we inhabit, which now lies buried in utter destruction: Who then would be fond of houses of Clay, whose Foundations are in the Dust: But this is our common guilt, fostered by our pride and forgetfulness: World<g ref="char:EOLhyphen"/>ly Glory, and Ignorance of our Duty, Mortality, and the Muta<g ref="char:EOLhyphen"/>bility of Earthly things, makes us run upon this Transgression. The Divine hand hath sometimes visibly corrected Humane Vani<g ref="char:EOLhyphen"/>ty and ambition in these things; as in the Reign of <hi>Theodosius senior,</hi> fifty seven Ornamental Towers, newly erected upon the
+<pb n="6" facs="tcp:35577:4"/> Walls of the Imperial City of <hi>Constantinople,</hi> were thrown down and destroyed by an Earthquake: Multitudes of the most lofty and stately Dwellings in the World, in many different Kingdoms, have been thus ruined. Thus fell the splendid Temple of <hi>Apollo,</hi> in the Isle of <hi>Delphus:</hi> Thus fell once the glorious Cities of <hi>Bithy<g ref="char:EOLhyphen"/>nia, Smyrna, Catana, Ferara,</hi> and <hi>Lacedemon,</hi> &amp;c. and many others of greater name. And for common Houses to dwell in, we read they have been thus destroyed by hundreds and thousands, in all Ages and Parts of the World, together with all the Houshold Goods usually, and with the very Inhabitants too often.</p>
+            <p n="2">2. We are not to be too confident and secure in strong Holds and Fortresses. Sometimes the Walls have fallen down and let in the Assailants; as at <hi>Jericho, Joshua</hi> 6.20. Other sometimes the Walls have fallen down and destroyed the Defendants, even to the number of twenty seven thousand men, as at <hi>Aphek,</hi> 1 <hi>Kings</hi> 20.30. About the year 1590. a noble Fortress in <hi>Canisia,</hi> in the Confines of <hi>Hungaria,</hi> contrived by the best Warriers for their retirement and security from their Enemies, divided in two by an Earth<g ref="char:EOLhyphen"/>quake, and left those that trusted in it to the mercy of those that besieged them. So <hi>Tacitus</hi> tells us, That in the fifth year of the Emperour <hi>Tiberius</hi> there fell out so dreadful an Earthquake in <hi>Asia,</hi> that thirteen walled Towns and Cities were destroyed: So <hi>Eusebius</hi> tells us, That in the seventh year of <hi>Trajan</hi> nine several strong Cities in <hi>Asia, Greece,</hi> and <hi>Calabria,</hi> were by a like Earth<g ref="char:EOLhyphen"/>quake laid upon a ruinous heap: So also the <hi>Turkish</hi> History tells us, That the strong Walls of the magnificent <hi>Constantinople</hi> were by the like means tumbled down, and made passable by the weak<g ref="char:EOLhyphen"/>est Assailant. Thus you see that even Rocks of Brass, contrived into a Fortress, founded upon this Terrestrial Globe, are only to be confided in under the Divine security, and no otherwise.</p>
+            <p n="3">3. We are not wholly to take Land-security for the best Inheri<g ref="char:EOLhyphen"/>tance or Estate. This (in the affirmative) is the ordinary Me<g ref="char:EOLhyphen"/>thod of the most, but yet is far from infallible certainty, as I shall shew in two instances, because—1. Sometimes this hath sud<g ref="char:EOLhyphen"/>dainly sunk down and disappeared. So in <hi>Chersonesus</hi> whole Pa<g ref="char:EOLhyphen"/>rishes sunk into the ground at once. About the year 105, many Mountains and Hills sunk and disappeared in the <hi>Eastern</hi> parts of
+<pb n="7" facs="tcp:35577:4"/>
+               <hi>Europe.</hi> In <hi>Laconia</hi> (before the <hi>Lacedemonian</hi> War, created by Slaves and Bond men) the Earth opened in many places, and fell as into a Bottemless Pit. By some such like way as this, in the time of <hi>William Rufus,</hi> Earl <hi>Godwin</hi> lost all his Lands in <hi>Kent;</hi> and the <hi>Flemmings,</hi> in our <hi>Henry</hi> the First's time, had their Patrimony in a great part of <hi>Flanders</hi> wholly swallowed up. Earthquakes have sometimes removed two opposite Fields, and placed them in one anothers room, as those two Fields in <hi>Italy,</hi> where the <hi>Marrucini</hi> were seated in the reign of <hi>Nero.</hi> But to close with a strange passage in our times, <hi>A. D.</hi> 1657. a parcel of Land in <hi>Cheshire,</hi> not far from <hi>Hampton</hi> Post, was swallowed up, so as not to be seen again.—2. O<g ref="char:EOLhyphen"/>ther sometimes this hath start up and wandered away from the true <hi>Proprietors.</hi> As in <hi>Lombardy</hi> in <hi>Italy,</hi> an Earthquake, continuing forty days, removed a Town from the place where it stood a great way of. But one Instance more may serve, allowing me to be particular in it, because of its strangeness and fulness to my purpose; both Mr. <hi>Camden</hi> and Mr. <hi>Speed</hi> tell us, That in the Year 1571. in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Hereford,</hi> the Earth began to open at six a Clock in the Even<g ref="char:EOLhyphen"/>ing; and an Hill with a Rock upon it (making at first a great bel<g ref="char:EOLhyphen"/>lowing noise, which was heard a great way off) lifted it self up a great height and began to travel, bearing along with it the Trees that grew upon it, the Sheep-folds and Flocks of Sheep abiding there at the same time: In the place from whence it first moved it left a gaping distance, carrying along with it about 26 Acres of Ground; passing along it overthrew a Chappel standing in its way: With the like force it thrust before it the Highways, Houses, and Trees; it made Tilled Ground become Pasture, and turned Pasture into Tillage. Having thus walked from <hi>Saturday</hi> in the Evening till <hi>Munday</hi> Noon, it then stood still and moved no more.</p>
+            <p n="4">4. We are not to walk up and down the surface of this lower World, without a providential and divine Sense, Care, and Awe; because we trade and travel upon an uncertain and dangerous Earth, such as may (for any thing we know) cleave asunder and swallow us up; or at least destroy us by its violent shaking: as <hi>Lanquet</hi> in his Chronicle tells us of thirty thousand Persons that were destroyed in <hi>Jewry</hi> 29 Years before the Birth of Christ, by a
+<pb n="8" facs="tcp:35577:5"/> sudden and terrible shaking. In like manner perished about <hi>Puell</hi> and <hi>Naples</hi> 40000 People, in the Year 1456. In the time of the third persecution Multitudes of Men were so dashed together by an Earthquake, as to be miserably kill'd, trading together, and endeavouring to help one another. We are not to be insensible, but live and act with a divine care; for few places in <hi>England</hi> but what have sometimes suffered by Earthquakes, and other-some<g ref="char:EOLhyphen"/>times the whole Nation at once.</p>
+            <p n="5">5. We are humbly to acknowledge the Power and Goodness of God: his Power in preserving us, his Goodness because we deserve it not; and also herein distinguishing between us and o<g ref="char:EOLhyphen"/>thers. Thus in the days of <hi>Bajazet</hi> the <hi>Turkish</hi> Emperour, three millions of Men were destroyed about <hi>Constantinople,</hi> and whole Multitudes of stately Buildings, Churches, Towers, and the Emperour's Palace it self, did all suffer very much; whereas the Christians suffered little in their concerns, and not one of their Churches perished. The words of my Author are, <hi>Templa Christi<g ref="char:EOLhyphen"/>anorum manserunt integra.</hi>
+            </p>
+            <p>To close the whole, see and imitate <hi>Acts</hi> 16. from 26. to 31.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35577:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
